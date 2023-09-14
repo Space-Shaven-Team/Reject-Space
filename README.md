@@ -10,10 +10,10 @@
 
 # Ideas, partially adapted (Spizzhenno, but generally little :))
 
-> [The original source of the idea (Some textures, etc.)](https://spacestation14.io/ "The original source of the idea (Some textures, etc.)") - Space Station 14
+> [The original source of the idea (Some textures, etc.)](https://spacestation14.io/ "The original source of the idea (Some textures, etc.)") - Space Station 14\
 [The original game](https://spacestation13.com/ "The original game") - Space Station 13
 
 # Links and other crap
-> [Steam Group](https://steamcommunity.com/groups/space-shaven-team "Steam Group")\n
-[Wiki (Developers)](http://nety-nihua.com "Wiki (Developers)") (Don't forget to replace the link)\n
+> [Steam Group](https://steamcommunity.com/groups/space-shaven-team "Steam Group")\
+[Wiki (Developers)](http://nety-nihua.com "Wiki (Developers)") (Don't forget to replace the link)\
 [Wiki (Players)](http://nety-nihua.com "Wiki (Players)") (Don't forget to replace the link)
