@@ -2,6 +2,7 @@
 ![crap1](https://img.shields.io/badge/Game_Engine-Godot-blue)
 ![crap2](https://img.shields.io/badge/Progress-%250.01-red)
 > Mail : rushaven@outlook.com
+At the moment, the project is frozen, but there will be something like the illegitimate son of Minecraft and Rust
 
 # Why was the previous repository deleted?
 
