@@ -1,7 +1,8 @@
 # A little useless crap
 ![crap1](https://img.shields.io/badge/Game_Engine-Godot-blue)
 ![crap2](https://img.shields.io/badge/Progress-%250.01-red)
-> Mail : rushaven@outlook.com
+> Mail : rushaven@outlook.com/
+> FROZEN
 
 # Why was the previous repository deleted?
 
